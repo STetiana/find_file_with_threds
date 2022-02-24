@@ -1,2 +1,2 @@
 To run the program:
-./find <filename>
+./find "filename"
